@@ -1,5 +1,5 @@
 # PythonFlashCards
-building a flashcard game in python in different configurations
+Building a flashcard game in python in different configurations
 An exploration in python development by Jacob Cohen-Rosenthal
 
 My goal is to eventually develop useful educational technology software.
