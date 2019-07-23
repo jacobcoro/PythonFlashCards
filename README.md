@@ -26,6 +26,7 @@ Pictures
 Combining decks
 Sharing decks
 Live updating of deck contents across platforms
+A tool that can turn a website link, like a duolingo or quizlet page into a PythonFlashCards formatted card deck
 Live accessibility of decks through an API
 When creating cards auto suggest based on other users cards
 Record session results
