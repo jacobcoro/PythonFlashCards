@@ -56,7 +56,8 @@ After using flashcard apps in my classroom as a teacher, and after reading revie
 
 First, in version 0.1, I've made a simple text based game within python that uses a dictionary built in-program. 
 
-
+In later versinos of this project I was inspired to create a universal flashcard format, with decentralized cloud storage. 
+This project has been moved to https://github.com/Jewcub/Inter-Planetary-Flash-Cards
 
 
 
